@@ -1,0 +1,5 @@
+a=input('Введите строку ')
+b=a.replace(' ','')
+c = ''.join(set(b))
+d = ''.join(sorted(c))
+print(d)
