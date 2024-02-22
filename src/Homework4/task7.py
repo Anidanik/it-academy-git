@@ -5,4 +5,4 @@ def nod(a,b):
         else:
             b = b % a
     print(a + b)
-nod(int(input('Введите первое число ')),int(input('Введите второе число ')))
+nod(15,20)
